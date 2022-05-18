@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.paymentservice;
+package com.sliit.ctse.microservice.paymentservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

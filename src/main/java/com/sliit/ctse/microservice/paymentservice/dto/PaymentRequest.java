@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.paymentservice.dto;
+package com.sliit.ctse.microservice.paymentservice.dto;
 
 import java.math.BigDecimal;
 

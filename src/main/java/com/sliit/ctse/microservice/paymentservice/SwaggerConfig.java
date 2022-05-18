@@ -1,4 +1,4 @@
-package com.sliit.mtit.microservice.paymentservice;
+package com.sliit.ctse.microservice.paymentservice;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
